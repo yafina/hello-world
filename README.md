@@ -1,2 +1,2 @@
 # hello-world
-a easy repository
+print('hello world')
